@@ -1,0 +1,6 @@
+build/
+gradlew.bat
+tdd10.iml
+.idea/
+.gradle/
+.DS_Store
